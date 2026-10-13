@@ -1,0 +1,21 @@
+# ===========================
+# Root .gitignore — PeopleDesk
+# ===========================
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Antigravity / AI agent files
+.gemini/
